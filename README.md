@@ -7,7 +7,8 @@
 * *Job Objectives - Back End Developer*
 
 
-**큰 그림**을 이해하고, 항상 사용자 입장에서 서비스를 만들어 나갑니다.
+
+**큰 그림**을 이해하고, 항상 **사용자 입장**에서 서비스를 만들어 나갑니다.
 
 서비스 속 **작은 차이**는 큰 변화를 만들어 낼 수 있다 생각하고, 작은 부분들을 볼 때도 **큰 생각**을 같이 해나가는 개발자가 되고자 합니다.
 
@@ -21,7 +22,7 @@
 
 ---
 
-🔗[Backcoder's Blog](https://backcoder.tistory.com/)
+🔗[June's Blog](https://backcoder.tistory.com/)
 
 ---
 
